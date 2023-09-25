@@ -1,6 +1,3 @@
-# Breast-cancer-classification
-
-
 ---
 
 # Breast Cancer Image Segmentation and Classification
